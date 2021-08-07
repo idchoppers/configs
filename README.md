@@ -2,8 +2,9 @@
 
 Bunch of configs for some programs that I regularly use.
 
-1. vimrc -
-No description needed, just my vimrc
-
-2. ftt.sh -
-From The Top shell script. I am lazy, so I made a script that launches all the programs I use at startup. Usually I have an alias like ftt to start this stuff.
+1. .vimrc - vimrc config stored at $HOME
+2. .config - Linux Kernel config
+3. make.conf - portage config
+4. DWM - My version of the suckless dwm
+5. DMENU - My version of the suckless dmenu
+6. ST - My version of the suckless st
