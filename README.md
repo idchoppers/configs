@@ -16,6 +16,6 @@ Bunch of configs for some programs that I regularly use.
 
 5. sources/ - source code for some programs I use
 |--> dwm - My changes to suckless's DWM, gets rid of useless taskbar, changes color of borders, changes modkey to Windows key
-|--> dmenu - suckless's dmenu, no needed changes yet
-|--> st - My changes to suckless's st, change font
-|--> razer - Scripts to make pulseaudio recognize Razer Nari headset
+|-->    dmenu - suckless's dmenu, no needed changes yet
+|-->            st - My changes to suckless's st, change font
+|-->                    razer - Scripts to make pulseaudio recognize Razer Nari headset
