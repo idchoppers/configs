@@ -3,6 +3,7 @@
 Bunch of configs for some programs that I regularly use.
 
 1. .vimrc - my vimrc
+
 |--> Includes some small changes, line numbers, tabspaces, and syntax colors.
 
 2. .bashrc - my bashrc
