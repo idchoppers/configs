@@ -6,7 +6,7 @@ Bunch of configs for some programs that I regularly use.
     - Includes some small changes, line numbers, tabspaces, and syntax colors.
 
 2. .bashrc - my bashrc
-    - Only includes a PS1 change for now.
+    - Changes PS1 and runs pfetch cause why not, it looks cool
 
 3. issue - /etc/issue file, shows when login prompt is called
     - Has some cool ascii art
