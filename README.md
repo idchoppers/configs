@@ -8,6 +8,9 @@ Bunch of configs for some programs that I regularly use.
 2. .bashrc - my bashrc
     - Only includes a PS1 change for now.
 
+3. issue - /etc/issue file, shows when login prompt is called
+    - Has some cool ascii art
+
 3. .config - Linux kernel config
     - Created for kernel version 5.10.52-gentoo, specifically my main PC.
 
