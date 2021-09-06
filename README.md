@@ -17,7 +17,11 @@ Bunch of configs for some programs that I regularly use.
 4. make.conf - portage config
     - Portage config for my build, USE flags are subject to change.
 
-5. sources/ - source code for some programs I use
+5. package.license - Accepts licenses
+
+6. package.mask - Masks packages that break other things
+
+7. sources/ - source code for some programs I use
     - dwm - My changes to suckless's DWM, gets rid of useless taskbar, changes color of borders, changes modkey to Windows key
     - dmenu - suckless's dmenu, no needed changes yet
     - st - My changes to suckless's st, change font
